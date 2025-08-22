@@ -1,0 +1,13 @@
+Flask
+numpy
+librosa
+tensorflow
+SpeechRecognition
+pyttsx3
+google-generativeai
+textblob
+scikit-learn
+pyaudio
+soundfile
+werkzeug
+flask-cors
